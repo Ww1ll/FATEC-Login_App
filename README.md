@@ -19,11 +19,8 @@ LoginApp é uma aplicação Android desenvolvida em Kotlin que permite aos usuá
 ### Detalhamento dos Arquivos e Pastas
 
 - **MainActivity.kt:** Contém a lógica principal para a interface do usuário.
-- **LoginViewModel.kt:** Implementa a lógica de negócios e interação com o repositório.
-- **LoginRepository.kt:** Gerencia a comunicação com a fonte de dados (API, banco de dados, etc.).
-- **User.kt:** Modelo de dados que representa um usuário.
 - **activity_main.xml:** Layout XML para a interface de login.
-- **strings.xml:** Arquivo de recursos de strings para o aplicativo.
+
 
 
 ## Instruções de Configuração
