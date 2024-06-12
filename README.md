@@ -20,6 +20,7 @@ LoginApp é uma aplicação Android desenvolvida em Kotlin que permite aos usuá
 - **activity_home_page.xml:** Layout XML para a página inicial após login com sucesso.
 
 
+
 ## Instruções de Configuração
 
 1. **Clone o repositório:**
