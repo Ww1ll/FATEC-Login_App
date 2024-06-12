@@ -12,14 +12,12 @@ LoginApp é uma aplicação Android desenvolvida em Kotlin que permite aos usuá
 - **Versão do Kotlin:** 1.4.10 ou superior
 - **Versão do SDK do Android:** 7.0 (Nougat) ou superior
 
-### Estrutura do Projeto
+### Estrutura do projeto
 
-
-
-### Detalhamento dos Arquivos e Pastas
-
-- **MainActivity.kt:** Contém a lógica principal para a interface do usuário.
+- **MainActivity.kt:** Contém a lógica principal para a interface de login.
 - **activity_main.xml:** Layout XML para a interface de login.
+- **HomePage.kt:** Contém a lógica da página inicial.
+- **activity_home_page.xml:** Layout XML para a página inicial após login com sucesso.
 
 
 
